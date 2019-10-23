@@ -1,4 +1,4 @@
-# height    tau_500    colmass    temp v_turb   n_Htotal   n_proton n_electron   pressure  p_ratio  density
+# height tau_500 colmass temperature v_turb hydrogen_density proton_density electron_density pressure p_ratio density
 #     km        m/m      g/cm2       K   km/s       cm-3       cm-3       cm-3    dyn/cm2  Pa/Pa      g/cm3
  2218.20  0.000E+00  6.777E-06  100000  11.73  5.575E+09  5.575E+09  6.665E+09  1.857E-01  0.952  1.306E-14
  2216.50  7.696E-10  6.779E-06   95600  11.65  5.838E+09  5.837E+09  6.947E+09  1.857E-01  0.950  1.368E-14
